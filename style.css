@@ -257,25 +257,7 @@ dd {
 /* --- Footer --- */
 footer {
   background-color: var(--color-text);
-  color: var(--color-rule);
-  text-align: center;
-  padding: 2rem 1.5rem;
-}
-
-footer a {
-  color: #fff;
-  text-decoration: underline;
-  text-underline-offset: 2px;
-}
-
-footer a:hover {
-  color: var(--color-rule);
-}
-
-.copyright {
-  margin-top: 0.5rem;
-  font-size: 0.8125rem;
-  color: var(--color-muted);
+  height: 0.5rem;
 }
 
 /* --- Responsive: narrow screens --- */
